@@ -5,7 +5,7 @@ Native Desktop Barcode Reader For Odoo 10
 
 [![Travis Build Status][build-badge]][build]
 [![Dependencies Status][dependencyci-badge]][dependencyci]
-[![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE.md)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.md)
 
 [build-badge]: https://travis-ci.org/madicorp/odoo_barecode_desktop.svg?branch=master
 [build]: https://travis-ci.org/madicorp/odoo_barecode_desktop
